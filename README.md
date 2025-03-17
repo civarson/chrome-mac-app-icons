@@ -1,12 +1,12 @@
 <img src="preview.png" width="470" height="94" alt="Preview of icons">
 
-# Google Chrome App Icons for MacOS Dock
+# Chrome App Icons for MacOS Dock
 
 A small collection of icons for Chrome-generated apps designed to personalize your MacOS dock. These icons provide a familiar look for your Chrome apps, making your dock more visually consistent.
 
 ## Adding Chrome Apps to Your Dock
 
-To add a Google Chrome app to your MacOS dock, follow these steps:
+To add a Chrome app to your dock, follow these steps:
 
 1. Open **Google Chrome** and navigate to the app you want to add.
 2. Click on the **three-dot menu** in the top-right corner and select **More Tools** > **Create Shortcut**.
