@@ -2,7 +2,7 @@
 
 # Google Chrome App Icons for MacOS Dock
 
-A small collection of Google Chrome app icons designed to personalize your MacOS Dock. These icons provide a sleek and stylish look for your Chrome apps, making your dock more visually appealing.
+A small collection of icons for Chrome-generated apps designed to personalize your MacOS dock. These icons provide a familiar look for your Chrome apps, making your dock more visually consistent.
 
 ## Adding Chrome Apps to Your Dock
 
