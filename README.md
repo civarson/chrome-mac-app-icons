@@ -1,4 +1,4 @@
-![alt text](preview.png "Google Chrome App Icons for MacOS Dock")
+<img src="preview.png" width="470" height="94" alt="Preview of icons">
 
 # Google Chrome App Icons for MacOS Dock
 
