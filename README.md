@@ -37,4 +37,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Disclaimer
 
-This project is not affiliated with, endorsed by, or sponsored by Google LLC. All trademarks, logos, and brand names are the property of their respective owners. Google and its related marks are trademarks of Google LLC. Any references to Google products or services are for informational purposes only. 
+This project is not affiliated with, endorsed by, or sponsored by Google LLC. All trademarks, logos, and brand names are the property of their respective owners. Google and its related marks (branding, marketing, products, logos, etc.) are trademarks of Google LLC. Any references to Google products or services are for informational purposes only. 
