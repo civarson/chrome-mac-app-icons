@@ -1,6 +1,6 @@
-<img src="preview.png" width="676" height="106" alt="Preview of icons">
-
 # Chrome App Icons for Mac
+
+<img src="preview.png" width="676" height="106" alt="Preview of icons">
 
 A small collection of icons for Chrome-generated apps designed to personalize your MacOS dock. These icons provide a familiar look for your Chrome apps, making your dock more visually consistent.
 
