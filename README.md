@@ -29,7 +29,7 @@ To change the icon of a Chrome app already in your Dock, follow these steps:
 
 ## How to Contribute
 
-If you have additional icons or suggestions, feel free to contribute to the project! Simply fork the repository, add your icons, and create a pull request.
+If you have additional app suggestions, feel free to contribute to the project or create a feature request.
 
 ## License
 
