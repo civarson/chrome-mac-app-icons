@@ -1,4 +1,4 @@
-<img src="_preview.png" width="676" height="106" alt="Preview of icons">
+<img src="preview.png" width="676" height="106" alt="Preview of icons">
 
 # Chrome App Icons for Mac
 
