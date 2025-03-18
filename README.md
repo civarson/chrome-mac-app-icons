@@ -21,8 +21,8 @@ Now, your Chrome app should be added to your Dock with its default icon.
 To change the icon of a Chrome app already in your Dock, follow these steps:
 
 1. Download and choose a new icon from this repository.
-2. Open the **Finder** and navigate to the app in the **Applications** folder.
-3. Right-click on the app and select **Get Info**.
+2. Open the **Finder** and navigate to the app in the **Applications** folder (Chrome may put web apps into its own folder).
+3. Right-click on the app and select **Get Info** or if it's already in the dock, Cmd (⌘)+click the icon and it will open the folder where it lives.
 4. In the **Get Info** window, click on the app icon at the top-left corner to highlight it.
 5. Drag and drop the new icon from the folder where you downloaded it onto the highlighted app icon in the **Get Info** window.
 6. Close the **Get Info** window. The app icon in your Dock should now reflect the new icon.
